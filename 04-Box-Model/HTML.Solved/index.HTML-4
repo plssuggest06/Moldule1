@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML Box Model</title>
+    <link rel="stylesheet" type="text/css" href="../assets/img4/style.css">
+  </head>
+
+  <body>
+    <section>
+      <img src="../assets/img1/image.png" alt="box with number 1"/>
+      <img src="../assets/img2/image.png" alt="box with number 2"/>
+      <img src="../assets/img3/image.png" alt="box with number 3"/>
+      <img src="../assets/img4/image.png" alt="box with number 4"/>
+    </section>
+  </body>
+
+</html>
